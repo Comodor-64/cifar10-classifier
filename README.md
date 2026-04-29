@@ -46,8 +46,6 @@ cifar10-classifier/
 └── README.md                       # Bu dosya
 ```
 
-> ⚠️ **Önemli:** `model/` klasörü GitHub'a yüklenmez (`.gitignore`'da). Modeli indirmek için aşağıdaki "Model İndirme" bölümüne bakın.
-
 ---
 
 ### ⚙️ Model Mimarisi
@@ -76,7 +74,7 @@ Giriş (32×32×3)
 #### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/cifar10-classifier.git
+git clone https://github.com/Comodor-64/cifar10-classifier.git
 cd cifar10-classifier
 ```
 
@@ -236,8 +234,6 @@ cifar10-classifier/
 └── README.md                       # This file
 ```
 
-> ⚠️ **Note:** The `model/` directory is excluded from GitHub (via `.gitignore`). See "Model Download" section below.
-
 ---
 
 ### ⚙️ Model Architecture
@@ -266,7 +262,7 @@ Input (32×32×3)
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cifar10-classifier.git
+git clone https://github.com/Comodor-64/cifar10-classifier.git
 cd cifar10-classifier
 ```
 
